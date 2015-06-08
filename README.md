@@ -8,6 +8,9 @@ http://jaguarps.com
 
 but will it make a link to a graphic?
 
-http://jaugarps.com/agraphic.jpg
+http://jaguarps.com/jagps-halftitle.jpg
 
 let's see...
+
+yep! great!
+
